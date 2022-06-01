@@ -1,0 +1,4 @@
+[nodes]
+node0 ansible_host=192.168.96.2 ansible_user=root
+node1 ansible_host=192.168.96.3 ansible_user=root
+node2 ansible_host=192.168.96.4 ansible_user=root
